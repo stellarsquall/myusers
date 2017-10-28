@@ -1,6 +1,6 @@
 {
-	"id": "user1",
-	"comment": "I am user 1",
+	"id": "centos_user",
+	"comment": "I am a centos user",
 	"uid": "100",
 	"gid": 1,
 	"home": "/home/user1",
